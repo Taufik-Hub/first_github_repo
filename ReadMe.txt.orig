@@ -1,9 +1,16 @@
 One
+feat-MF01-new-end-point
+branch one
+feature branch
+feat_MF_NEW_END_POINT
 branch one.
 //dummy code
+
+//dummy code2
+
+//dummy code 3
+
 feature branch
-<<<<<<< HEAD
-//git local repo 2
-=======
+//git local repo2
+//new conflict added
 //git local repo 1
->>>>>>> P1 commiting
