@@ -5,6 +5,7 @@ feature branch
 feat_MF_NEW_END_POINT
 branch one.
 //dummy code
+//dummy code2
 feature branch
 //git local repo2
 //new conflict added
