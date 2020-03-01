@@ -1,0 +1,9 @@
+One
+branch one.
+//dummy code
+feature branch
+<<<<<<< HEAD
+//git local repo 2
+=======
+//git local repo 1
+>>>>>>> P1 commiting
