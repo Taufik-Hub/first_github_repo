@@ -12,7 +12,7 @@ branch one.
 
 //dummy code 4
 
-/dummy 5
+//dummy code 5
 
 //dummy code 6
 
@@ -20,3 +20,4 @@ feature branch
 //git local repo2
 //new conflict added
 //git local repo 1
+
