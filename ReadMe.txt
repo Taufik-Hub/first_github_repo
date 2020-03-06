@@ -14,6 +14,8 @@ branch one.
 
 /dummy 5
 
+//dummy code 6
+
 feature branch
 //git local repo2
 //new conflict added
