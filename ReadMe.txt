@@ -10,6 +10,8 @@ branch one.
 
 //dummy code 3
 
+//dummy code 4
+
 feature branch
 //git local repo2
 //new conflict added
