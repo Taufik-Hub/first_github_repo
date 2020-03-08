@@ -12,11 +12,13 @@ branch one.
 
 //dummy code 4
 
-/dummy 5
+//dummy code 5
 
 //dummy code 6
 
 //dummy code 7
+
+//dummy code 8
 
 feature branch
 //git local repo2
